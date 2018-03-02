@@ -1,0 +1,33 @@
+Archetype	Core Card 1	Core Card 2	Core Card 3
+Murloc Paladin	Gentle Megasaur	Murloc Warleader	Call to Arms
+Aggro Paladin	Call to Arms	Sunkeeper Tarim	Righteous Protector
+Secret Mage	Aluneth	Kabal Lackey	Explosive Runes
+Spiteful Priest	Spiteful Summoner	Grand Archivist	Drakonid Operative
+Token Druid	Prince Keleseth	Tar Creeper	Ultimate Infestation
+Cube Warlock	Carnivorous Cube	Voidlord	Doomguard
+Big Priest	Barnes	Eternal Servitude	Lesser Diamond Spellstone
+Spell Hunter	Animal Companion	Tracking	Lesser Emerald Spellstone
+Midrange Hunter	Scavenging Hyena	Alleycat	Houndmaster
+Zoo Warlock	Flame Imp	Kobold Librarian	Malchezaar's Imp
+Aggro Token Druid	Living Mana	Savage Roar	Druid of the Swarm
+Exodia Mage	Open the Waygate	Archmage Antonidas	Sorcerer's Apprentice
+Tempo Rogue	Vilespine Slayer	SI:7 Agent	Edwin VanCleef
+Pirate Warrior	N'Zoth's First Mate	Southsea Captain	Bloodsail Cultist
+Evolve Shaman	Evolve	Doppelgangster	Unstable Evolution
+Jade Druid	Aya Blackpaw	Jade Idol	Jade Blossom
+Burn Mage	Frost Lich Jaina	Flamestrike	Ice Block
+Control Paladin	Uther of the Ebon Blade	Consecration	Auctionmaster Beardo
+Recruit Warrior	Woecleaver	Gather Your Party	Ysera
+Dragon Priest	Northshire Cleric	Duskbreaker	Netherspite Historian
+Control Warlock	Siphon Soul	Voidlord	Bloodreaver Gul'dan
+Miracle Rogue	Gadgetzan Auctioneer	Fal'dorei Strider	Eviscerate
+Mill Rogue	Kingsbane	Cavern Shinyfinder	Coldlight Oracle
+Quest Druid	Jungle Giants	Cursed Disciple	Kun the Forgotten King
+Control Shaman	White Eyes	Healing Rain	Devolve
+C'Thun Druid	C'Thun	Twin Emperor Vek'lor	Dark Arakkoa
+Big Druid	Dragonhatcher	Ultimate Infestation	Sleepy Dragon
+Buff Paladin	Smuggler's Run	Spikeridged Steed	Stonehill Defender
+Control Paladin	Aldor Peacekeeper	Tirion Fordring	Spikeridged Steed
+Recruit Hunter	Barnes	Kathrena Winterwisp	King Krush
+Control Mage	Alexstrasza	Flamestrike	Kabal Courier
+Elemental Mage	Pyros	Frost Lich Jaina	Blazecaller
